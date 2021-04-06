@@ -1,6 +1,6 @@
 # Unbeatable_XO
 
-this project is an Android app for the tic tok (XO) game,
+this project is an Android app for the tik tac toe (XO) game,
 
 ## Modes
 
@@ -8,4 +8,4 @@ this project is an Android app for the tic tok (XO) game,
 * easy bot
 * legend bot ( unbeatable )
 
-**Contact me if you could beat the legend bot in tik tok ( there is a good prize )**
+**Contact me if you could beat the legend bot in tik tac toe ( there is a good prize )**
